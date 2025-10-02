@@ -1,0 +1,73 @@
+import numpy as np
+
+arr1 = np.array([1, 2, 3, 4])
+print(f"arr1: {arr1}")
+
+arr2 = np.array([4, 5, 6, 7])
+print(f"arr2: {arr2}")
+
+print(f"Type of arr1: {type(arr1)}")
+
+'''
+arrays are numerically ready, so we can perform mathematical operations on them
+where as python lists will add by concatenation
+'''
+sum_arr = arr1 + arr2
+print(f"sum of arr1 and arr2: {sum_arr}")
+
+multiplied_arr = arr1 * arr2
+print(f"arr1 * arr2: {multiplied_arr}")
+
+''' creating a 2D array (matrix) '''
+matrix = np.array([[1, 2, 3], [4, 5, 6]])
+print(matrix)
+
+'''reshaping an array in this case the matrix above with two rows and three columns now had
+three rows and two columns'''
+reshaped_matrix = matrix.reshape(3, 2)
+print(f"reshaped matrix:\n{reshaped_matrix}")
+
+'''transposing the matrix'''
+transposed_matrix = matrix.T
+print(f"transposed matrix:\n{transposed_matrix}")
+
+'''masking - filtering values based on a condition'''
+arr3 = np.array([10, 20, 30, 40])
+mask = arr3 > 20
+print(mask) # print out boolean
+print(arr3[mask]) # print out values that are greater than 20
+
+print(matrix.size)
+
+arr3d = np.array([
+    [[1, 2, 3, 4],
+     [5, 6, 7, 8],
+     [9, 10, 11, 12]],
+    [[13, 14, 15, 16],
+     [17, 18, 19, 20],
+    [21, 22, 23, 24]]
+])
+print("Shape: ", arr3d.shape)
+print("Dimensions: ", arr3d.ndim) #tells you how many dimensions the array has
+
+a = list(range(1, 10, 2)) #python list, starting at 1, anding at 10 and incrementing by 2
+print(a)
+
+b = np.arange(1, 10, 2)
+print(b) #numpy array, starting at 1, anding at 10 and incrementing by 2
+
+c = np.zeros((2, 3))
+print(c) #2 rows and 3 columns of zeros
+
+d = np.random.randint(1, 10, (3, 3))
+print(d) #3x3 matrix with random integers between 1 and 10
+
+#create a 9x9 matrix with random integers between 1 and 999  
+e = np.random.randint(1, 1_000, (9, 9))
+print(e)
+
+#Array Operations
+a = np.array([1, 2, 3, 4])
+print(a *2) #vectorized operation, multiply each element by 2
+print(a + 10) #broadcasting, add 10 to each element
+print(np.sqrt(a)) #sqrt is a universal function of numpy - apply square root to each element
