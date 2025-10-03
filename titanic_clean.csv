@@ -1,0 +1,892 @@
+survived,pclass,sex,age,fare,family_size,age_group,fare_per_person
+0,3,male,22.0,7.25,2,young adult,3.62
+1,1,female,38.0,71.2833,2,adult,35.64
+1,3,female,26.0,7.925,1,young adult,7.93
+1,1,female,35.0,53.1,2,young adult,26.55
+0,3,male,35.0,8.05,1,young adult,8.05
+0,3,male,28.0,8.4583,1,young adult,8.46
+0,1,male,54.0,51.8625,1,adult,51.86
+0,3,male,2.0,21.075,5,child,4.22
+1,3,female,27.0,11.1333,3,young adult,3.71
+1,2,female,14.0,30.0708,2,teen,15.04
+1,3,female,4.0,16.7,3,child,5.57
+1,1,female,58.0,26.55,1,senior,26.55
+0,3,male,20.0,8.05,1,young adult,8.05
+0,3,male,39.0,31.275,7,adult,4.47
+0,3,female,14.0,7.8542,1,teen,7.85
+1,2,female,55.0,16.0,1,adult,16.0
+0,3,male,2.0,29.125,6,child,4.85
+1,2,male,28.0,13.0,1,young adult,13.0
+0,3,female,31.0,18.0,2,young adult,9.0
+1,3,female,28.0,7.225,1,young adult,7.22
+0,2,male,35.0,26.0,1,young adult,26.0
+1,2,male,34.0,13.0,1,young adult,13.0
+1,3,female,15.0,8.0292,1,teen,8.03
+1,1,male,28.0,35.5,1,young adult,35.5
+0,3,female,8.0,21.075,5,child,4.22
+1,3,female,38.0,31.3875,7,adult,4.48
+0,3,male,28.0,7.225,1,young adult,7.22
+0,1,male,19.0,263.0,6,young adult,43.83
+1,3,female,28.0,7.8792,1,young adult,7.88
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,1,male,40.0,27.7208,1,adult,27.72
+1,1,female,28.0,146.5208,2,young adult,73.26
+1,3,female,28.0,7.75,1,young adult,7.75
+0,2,male,66.0,10.5,1,senior,10.5
+0,1,male,28.0,82.1708,2,young adult,41.09
+0,1,male,42.0,52.0,2,adult,26.0
+1,3,male,28.0,7.2292,1,young adult,7.23
+0,3,male,21.0,8.05,1,young adult,8.05
+0,3,female,18.0,18.0,3,teen,6.0
+1,3,female,14.0,11.2417,2,teen,5.62
+0,3,female,40.0,9.475,2,adult,4.74
+0,2,female,27.0,21.0,2,young adult,10.5
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,2,female,3.0,41.5792,4,child,10.39
+1,3,female,19.0,7.8792,1,young adult,7.88
+0,3,male,28.0,8.05,1,young adult,8.05
+0,3,male,28.0,15.5,2,young adult,7.75
+1,3,female,28.0,7.75,1,young adult,7.75
+0,3,male,28.0,21.6792,3,young adult,7.23
+0,3,female,18.0,17.8,2,teen,8.9
+0,3,male,7.0,39.6875,6,child,6.61
+0,3,male,21.0,7.8,1,young adult,7.8
+1,1,female,49.0,76.7292,2,adult,38.36
+1,2,female,29.0,26.0,2,young adult,13.0
+0,1,male,65.0,61.9792,2,senior,30.99
+1,1,male,28.0,35.5,1,young adult,35.5
+1,2,female,21.0,10.5,1,young adult,10.5
+0,3,male,28.5,7.2292,1,young adult,7.23
+1,2,female,5.0,27.75,4,child,6.94
+0,3,male,11.0,46.9,8,child,5.86
+0,3,male,22.0,7.2292,1,young adult,7.23
+1,1,female,38.0,80.0,1,adult,80.0
+0,1,male,45.0,83.475,2,adult,41.74
+0,3,male,4.0,27.9,6,child,4.65
+0,1,male,28.0,27.7208,1,young adult,27.72
+1,3,male,28.0,15.2458,3,young adult,5.08
+1,2,female,29.0,10.5,1,young adult,10.5
+0,3,male,19.0,8.1583,1,young adult,8.16
+1,3,female,17.0,7.925,7,teen,1.13
+0,3,male,26.0,8.6625,3,young adult,2.89
+0,2,male,32.0,10.5,1,young adult,10.5
+0,3,female,16.0,46.9,8,teen,5.86
+0,2,male,21.0,73.5,1,young adult,73.5
+0,3,male,26.0,14.4542,2,young adult,7.23
+1,3,male,32.0,56.4958,1,young adult,56.5
+0,3,male,25.0,7.65,1,young adult,7.65
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,3,male,28.0,8.05,1,young adult,8.05
+1,2,male,0.83,29.0,3,child,9.67
+1,3,female,30.0,12.475,1,young adult,12.48
+0,3,male,22.0,9.0,1,young adult,9.0
+1,3,male,29.0,9.5,1,young adult,9.5
+1,3,female,28.0,7.7875,1,young adult,7.79
+0,1,male,28.0,47.1,1,young adult,47.1
+1,2,female,17.0,10.5,1,teen,10.5
+1,3,female,33.0,15.85,4,young adult,3.96
+0,3,male,16.0,34.375,5,teen,6.88
+0,3,male,28.0,8.05,1,young adult,8.05
+1,1,female,23.0,263.0,6,young adult,43.83
+0,3,male,24.0,8.05,1,young adult,8.05
+0,3,male,29.0,8.05,1,young adult,8.05
+0,3,male,20.0,7.8542,1,young adult,7.85
+0,1,male,46.0,61.175,2,adult,30.59
+0,3,male,26.0,20.575,4,young adult,5.14
+0,3,male,59.0,7.25,1,senior,7.25
+0,3,male,28.0,8.05,1,young adult,8.05
+0,1,male,71.0,34.6542,1,senior,34.65
+1,1,male,23.0,63.3583,2,young adult,31.68
+1,2,female,34.0,23.0,2,young adult,11.5
+0,2,male,34.0,26.0,2,young adult,13.0
+0,3,female,28.0,7.8958,1,young adult,7.9
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,1,male,21.0,77.2875,2,young adult,38.64
+0,3,male,33.0,8.6542,1,young adult,8.65
+0,3,male,37.0,7.925,3,adult,2.64
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,3,female,21.0,7.65,1,young adult,7.65
+1,3,male,28.0,7.775,1,young adult,7.78
+0,3,male,38.0,7.8958,1,adult,7.9
+1,3,female,28.0,24.15,2,young adult,12.07
+0,1,male,47.0,52.0,1,adult,52.0
+0,3,female,14.5,14.4542,2,teen,7.23
+0,3,male,22.0,8.05,1,young adult,8.05
+0,3,female,20.0,9.825,2,young adult,4.91
+0,3,female,17.0,14.4583,1,teen,14.46
+0,3,male,21.0,7.925,1,young adult,7.93
+0,3,male,70.5,7.75,1,senior,7.75
+0,2,male,29.0,21.0,2,young adult,10.5
+0,1,male,24.0,247.5208,2,young adult,123.76
+0,3,female,2.0,31.275,7,child,4.47
+0,2,male,21.0,73.5,3,young adult,24.5
+0,3,male,28.0,8.05,1,young adult,8.05
+0,2,male,32.5,30.0708,2,young adult,15.04
+1,2,female,32.5,13.0,1,young adult,13.0
+0,1,male,54.0,77.2875,2,adult,38.64
+1,3,male,12.0,11.2417,2,child,5.62
+0,3,male,28.0,7.75,1,young adult,7.75
+1,3,male,24.0,7.1417,1,young adult,7.14
+1,3,female,28.0,22.3583,3,young adult,7.45
+0,3,male,45.0,6.975,1,adult,6.97
+0,3,male,33.0,7.8958,1,young adult,7.9
+0,3,male,20.0,7.05,1,young adult,7.05
+0,3,female,47.0,14.5,2,adult,7.25
+1,2,female,29.0,26.0,2,young adult,13.0
+0,2,male,25.0,13.0,1,young adult,13.0
+0,2,male,23.0,15.0458,1,young adult,15.05
+1,1,female,19.0,26.2833,3,young adult,8.76
+0,1,male,37.0,53.1,2,adult,26.55
+0,3,male,16.0,9.2167,1,teen,9.22
+0,1,male,24.0,79.2,1,young adult,79.2
+0,3,female,28.0,15.2458,3,young adult,5.08
+1,3,female,22.0,7.75,1,young adult,7.75
+1,3,female,24.0,15.85,2,young adult,7.93
+0,3,male,19.0,6.75,1,young adult,6.75
+0,2,male,18.0,11.5,1,teen,11.5
+0,2,male,19.0,36.75,3,young adult,12.25
+1,3,male,27.0,7.7958,1,young adult,7.8
+0,3,female,9.0,34.375,5,child,6.88
+0,2,male,36.5,26.0,3,adult,8.67
+0,2,male,42.0,13.0,1,adult,13.0
+0,2,male,51.0,12.525,1,adult,12.52
+1,1,female,22.0,66.6,2,young adult,33.3
+0,3,male,55.5,8.05,1,senior,8.05
+0,3,male,40.5,14.5,3,adult,4.83
+0,3,male,28.0,7.3125,1,young adult,7.31
+0,1,male,51.0,61.3792,2,adult,30.69
+1,3,female,16.0,7.7333,1,teen,7.73
+0,3,male,30.0,8.05,1,young adult,8.05
+0,3,male,28.0,8.6625,1,young adult,8.66
+0,3,male,28.0,69.55,11,young adult,6.32
+0,3,male,44.0,16.1,2,adult,8.05
+1,2,female,40.0,15.75,1,adult,15.75
+0,3,male,26.0,7.775,1,young adult,7.78
+0,3,male,17.0,8.6625,1,teen,8.66
+0,3,male,1.0,39.6875,6,child,6.61
+1,3,male,9.0,20.525,3,child,6.84
+1,1,female,28.0,55.0,2,young adult,27.5
+0,3,female,45.0,27.9,6,adult,4.65
+0,1,male,28.0,25.925,1,young adult,25.92
+0,3,male,28.0,56.4958,1,young adult,56.5
+0,1,male,61.0,33.5,1,senior,33.5
+0,3,male,4.0,29.125,6,child,4.85
+1,3,female,1.0,11.1333,3,child,3.71
+0,3,male,21.0,7.925,1,young adult,7.93
+0,1,male,56.0,30.6958,1,senior,30.7
+0,3,male,18.0,7.8542,3,teen,2.62
+0,3,male,28.0,25.4667,5,young adult,5.09
+0,1,female,50.0,28.7125,1,adult,28.71
+0,2,male,30.0,13.0,1,young adult,13.0
+0,3,male,36.0,0.0,1,adult,0.0
+0,3,female,28.0,69.55,11,young adult,6.32
+0,2,male,28.0,15.05,1,young adult,15.05
+0,3,male,9.0,31.3875,7,child,4.48
+1,2,male,1.0,39.0,4,child,9.75
+1,3,female,4.0,22.025,3,child,7.34
+0,1,male,28.0,50.0,1,young adult,50.0
+1,3,female,28.0,15.5,2,young adult,7.75
+1,1,male,45.0,26.55,1,adult,26.55
+0,3,male,40.0,15.5,3,adult,5.17
+0,3,male,36.0,7.8958,1,adult,7.9
+1,2,female,32.0,13.0,1,young adult,13.0
+0,2,male,19.0,13.0,1,young adult,13.0
+1,3,female,19.0,7.8542,2,young adult,3.93
+1,2,male,3.0,26.0,3,child,8.67
+1,1,female,44.0,27.7208,1,adult,27.72
+1,1,female,58.0,146.5208,1,senior,146.52
+0,3,male,28.0,7.75,1,young adult,7.75
+0,3,male,42.0,8.4042,2,adult,4.2
+1,3,female,28.0,7.75,1,young adult,7.75
+0,2,female,24.0,13.0,1,young adult,13.0
+0,3,male,28.0,9.5,1,young adult,9.5
+0,3,male,28.0,69.55,11,young adult,6.32
+0,3,male,34.0,6.4958,1,young adult,6.5
+0,3,male,45.5,7.225,1,adult,7.22
+1,3,male,18.0,8.05,1,teen,8.05
+0,3,female,2.0,10.4625,2,child,5.23
+0,3,male,32.0,15.85,2,young adult,7.93
+1,3,male,26.0,18.7875,1,young adult,18.79
+1,3,female,16.0,7.75,1,teen,7.75
+1,1,male,40.0,31.0,1,adult,31.0
+0,3,male,24.0,7.05,1,young adult,7.05
+1,2,female,35.0,21.0,1,young adult,21.0
+0,3,male,22.0,7.25,1,young adult,7.25
+0,2,male,30.0,13.0,1,young adult,13.0
+0,3,male,28.0,7.75,2,young adult,3.88
+1,1,female,31.0,113.275,2,young adult,56.64
+1,3,female,27.0,7.925,1,young adult,7.93
+0,2,male,42.0,27.0,2,adult,13.5
+1,1,female,32.0,76.2917,1,young adult,76.29
+0,2,male,30.0,10.5,1,young adult,10.5
+1,3,male,16.0,8.05,1,teen,8.05
+0,2,male,27.0,13.0,1,young adult,13.0
+0,3,male,51.0,8.05,1,adult,8.05
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,1,male,38.0,90.0,2,adult,45.0
+0,3,male,22.0,9.35,1,young adult,9.35
+1,2,male,19.0,10.5,1,young adult,10.5
+0,3,male,20.5,7.25,1,young adult,7.25
+0,2,male,18.0,13.0,1,teen,13.0
+0,3,female,28.0,25.4667,5,young adult,5.09
+1,1,female,35.0,83.475,2,young adult,41.74
+0,3,male,29.0,7.775,1,young adult,7.78
+0,2,male,59.0,13.5,1,senior,13.5
+1,3,female,5.0,31.3875,7,child,4.48
+0,2,male,24.0,10.5,1,young adult,10.5
+0,3,female,28.0,7.55,1,young adult,7.55
+0,2,male,44.0,26.0,2,adult,13.0
+1,2,female,8.0,26.25,3,child,8.75
+0,2,male,19.0,10.5,1,young adult,10.5
+0,2,male,33.0,12.275,1,young adult,12.27
+0,3,female,28.0,14.4542,2,young adult,7.23
+1,3,female,28.0,15.5,2,young adult,7.75
+0,2,male,29.0,10.5,1,young adult,10.5
+0,3,male,22.0,7.125,1,young adult,7.12
+0,3,male,30.0,7.225,1,young adult,7.22
+0,1,male,44.0,90.0,3,adult,30.0
+0,3,female,25.0,7.775,1,young adult,7.78
+1,2,female,24.0,14.5,3,young adult,4.83
+1,1,male,37.0,52.5542,3,adult,17.52
+0,2,male,54.0,26.0,2,adult,13.0
+0,3,male,28.0,7.25,1,young adult,7.25
+0,3,female,29.0,10.4625,3,young adult,3.49
+0,1,male,62.0,26.55,1,senior,26.55
+0,3,male,30.0,16.1,2,young adult,8.05
+0,3,female,41.0,20.2125,3,adult,6.74
+1,3,female,29.0,15.2458,3,young adult,5.08
+1,1,female,28.0,79.2,1,young adult,79.2
+1,1,female,30.0,86.5,1,young adult,86.5
+1,1,female,35.0,512.3292,1,young adult,512.33
+1,2,female,50.0,26.0,2,adult,13.0
+0,3,male,28.0,7.75,1,young adult,7.75
+1,3,male,3.0,31.3875,7,child,4.48
+0,1,male,52.0,79.65,3,adult,26.55
+0,1,male,40.0,0.0,1,adult,0.0
+0,3,female,28.0,7.75,1,young adult,7.75
+0,2,male,36.0,10.5,1,adult,10.5
+0,3,male,16.0,39.6875,6,teen,6.61
+1,3,male,25.0,7.775,2,young adult,3.89
+1,1,female,58.0,153.4625,2,senior,76.73
+1,1,female,35.0,135.6333,1,young adult,135.63
+0,1,male,28.0,31.0,1,young adult,31.0
+1,3,male,25.0,0.0,1,young adult,0.0
+1,2,female,41.0,19.5,2,adult,9.75
+0,1,male,37.0,29.7,2,adult,14.85
+1,3,female,28.0,7.75,1,young adult,7.75
+1,1,female,63.0,77.9583,2,senior,38.98
+0,3,female,45.0,7.75,1,adult,7.75
+0,2,male,28.0,0.0,1,young adult,0.0
+0,3,male,7.0,29.125,6,child,4.85
+1,3,female,35.0,20.25,3,young adult,6.75
+0,3,male,65.0,7.75,1,senior,7.75
+0,3,male,28.0,7.8542,1,young adult,7.85
+0,3,male,16.0,9.5,1,teen,9.5
+1,3,male,19.0,8.05,1,young adult,8.05
+0,1,male,28.0,26.0,1,young adult,26.0
+0,3,male,33.0,8.6625,1,young adult,8.66
+1,3,male,30.0,9.5,1,young adult,9.5
+0,3,male,22.0,7.8958,1,young adult,7.9
+1,2,male,42.0,13.0,1,adult,13.0
+1,3,female,22.0,7.75,1,young adult,7.75
+1,1,female,26.0,78.85,1,young adult,78.85
+1,1,female,19.0,91.0792,2,young adult,45.54
+0,2,male,36.0,12.875,1,adult,12.88
+0,3,female,24.0,8.85,1,young adult,8.85
+0,3,male,24.0,7.8958,1,young adult,7.9
+0,1,male,28.0,27.7208,1,young adult,27.72
+0,3,male,23.5,7.2292,1,young adult,7.23
+0,1,female,2.0,151.55,4,child,37.89
+1,1,male,28.0,30.5,1,young adult,30.5
+1,1,female,50.0,247.5208,2,adult,123.76
+1,3,female,28.0,7.75,1,young adult,7.75
+1,3,male,28.0,23.25,3,young adult,7.75
+0,3,male,19.0,0.0,1,young adult,0.0
+1,2,female,28.0,12.35,1,young adult,12.35
+0,3,male,28.0,8.05,1,young adult,8.05
+1,1,male,0.92,151.55,4,child,37.89
+1,1,female,28.0,110.8833,1,young adult,110.88
+1,1,female,17.0,108.9,2,teen,54.45
+0,2,male,30.0,24.0,2,young adult,12.0
+1,1,female,30.0,56.9292,1,young adult,56.93
+1,1,female,24.0,83.1583,1,young adult,83.16
+1,1,female,18.0,262.375,5,teen,52.48
+0,2,female,26.0,26.0,3,young adult,8.67
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,2,male,43.0,26.25,3,adult,8.75
+1,3,female,26.0,7.8542,1,young adult,7.85
+1,2,female,24.0,26.0,2,young adult,13.0
+0,2,male,54.0,14.0,1,adult,14.0
+1,1,female,31.0,164.8667,3,young adult,54.96
+1,1,female,40.0,134.5,3,adult,44.83
+0,3,male,22.0,7.25,1,young adult,7.25
+0,3,male,27.0,7.8958,1,young adult,7.9
+1,2,female,30.0,12.35,1,young adult,12.35
+1,2,female,22.0,29.0,3,young adult,9.67
+0,3,male,28.0,69.55,11,young adult,6.32
+1,1,female,36.0,135.6333,1,adult,135.63
+0,3,male,61.0,6.2375,1,senior,6.24
+1,2,female,36.0,13.0,1,adult,13.0
+1,3,female,31.0,20.525,3,young adult,6.84
+1,1,female,16.0,57.9792,2,teen,28.99
+1,3,female,28.0,23.25,3,young adult,7.75
+0,1,male,45.5,28.5,1,adult,28.5
+0,1,male,38.0,153.4625,2,adult,76.73
+0,3,male,16.0,18.0,3,teen,6.0
+1,1,female,28.0,133.65,2,young adult,66.82
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,1,male,29.0,66.6,2,young adult,33.3
+1,1,female,41.0,134.5,1,adult,134.5
+1,3,male,45.0,8.05,1,adult,8.05
+0,1,male,45.0,35.5,1,adult,35.5
+1,2,male,2.0,26.0,3,child,8.67
+1,1,female,24.0,263.0,6,young adult,43.83
+0,2,male,28.0,13.0,1,young adult,13.0
+0,2,male,25.0,13.0,1,young adult,13.0
+0,2,male,36.0,13.0,1,adult,13.0
+1,2,female,24.0,13.0,1,young adult,13.0
+1,2,female,40.0,13.0,1,adult,13.0
+1,3,female,28.0,16.1,2,young adult,8.05
+1,3,male,3.0,15.9,3,child,5.3
+0,3,male,42.0,8.6625,1,adult,8.66
+0,3,male,23.0,9.225,1,young adult,9.23
+0,1,male,28.0,35.0,1,young adult,35.0
+0,3,male,15.0,7.2292,3,teen,2.41
+0,3,male,25.0,17.8,2,young adult,8.9
+0,3,male,28.0,7.225,1,young adult,7.22
+0,3,male,28.0,9.5,1,young adult,9.5
+1,1,female,22.0,55.0,2,young adult,27.5
+0,2,female,38.0,13.0,1,adult,13.0
+1,3,female,28.0,7.8792,1,young adult,7.88
+1,3,female,28.0,7.8792,1,young adult,7.88
+0,3,male,40.0,27.9,6,adult,4.65
+0,2,male,29.0,27.7208,2,young adult,13.86
+0,3,female,45.0,14.4542,2,adult,7.23
+0,3,male,35.0,7.05,1,young adult,7.05
+0,3,male,28.0,15.5,2,young adult,7.75
+0,3,male,30.0,7.25,1,young adult,7.25
+1,1,female,60.0,75.25,2,senior,37.62
+1,3,female,28.0,7.2292,1,young adult,7.23
+1,3,female,28.0,7.75,1,young adult,7.75
+1,1,female,24.0,69.3,1,young adult,69.3
+1,1,male,25.0,55.4417,2,young adult,27.72
+0,3,male,18.0,6.4958,2,teen,3.25
+0,3,male,19.0,8.05,1,young adult,8.05
+0,1,male,22.0,135.6333,1,young adult,135.63
+0,3,female,3.0,21.075,5,child,4.22
+1,1,female,28.0,82.1708,2,young adult,41.09
+1,3,female,22.0,7.25,1,young adult,7.25
+0,1,male,27.0,211.5,3,young adult,70.5
+0,3,male,20.0,4.0125,1,young adult,4.01
+0,3,male,19.0,7.775,1,young adult,7.78
+1,1,female,42.0,227.525,1,adult,227.52
+1,3,female,1.0,15.7417,3,child,5.25
+0,3,male,32.0,7.925,1,young adult,7.93
+1,1,female,35.0,52.0,2,young adult,26.0
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,2,male,18.0,73.5,1,teen,73.5
+0,3,male,1.0,46.9,8,child,5.86
+1,2,female,36.0,13.0,1,adult,13.0
+0,3,male,28.0,7.7292,1,young adult,7.73
+1,2,female,17.0,12.0,1,teen,12.0
+1,1,male,36.0,120.0,4,adult,30.0
+1,3,male,21.0,7.7958,1,young adult,7.8
+0,3,male,28.0,7.925,3,young adult,2.64
+1,1,female,23.0,113.275,2,young adult,56.64
+1,3,female,24.0,16.7,3,young adult,5.57
+0,3,male,22.0,7.7958,1,young adult,7.8
+0,3,female,31.0,7.8542,1,young adult,7.85
+0,2,male,46.0,26.0,1,adult,26.0
+0,2,male,23.0,10.5,1,young adult,10.5
+1,2,female,28.0,12.65,1,young adult,12.65
+1,3,male,39.0,7.925,1,adult,7.93
+0,3,male,26.0,8.05,1,young adult,8.05
+0,3,female,21.0,9.825,2,young adult,4.91
+0,3,male,28.0,15.85,2,young adult,7.93
+0,3,female,20.0,8.6625,1,young adult,8.66
+0,2,male,34.0,21.0,2,young adult,10.5
+0,3,male,51.0,7.75,1,adult,7.75
+1,2,male,3.0,18.75,3,child,6.25
+0,3,male,21.0,7.775,1,young adult,7.78
+0,3,female,28.0,25.4667,5,young adult,5.09
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,3,male,28.0,6.8583,1,young adult,6.86
+1,1,female,33.0,90.0,2,young adult,45.0
+0,2,male,28.0,0.0,1,young adult,0.0
+1,3,male,44.0,7.925,1,adult,7.93
+0,3,female,28.0,8.05,1,young adult,8.05
+1,2,female,34.0,32.5,3,young adult,10.83
+1,2,female,18.0,13.0,3,teen,4.33
+0,2,male,30.0,13.0,1,young adult,13.0
+0,3,female,10.0,24.15,3,child,8.05
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,3,male,21.0,7.7333,1,young adult,7.73
+0,3,male,29.0,7.875,1,young adult,7.88
+0,3,female,28.0,14.4,3,young adult,4.8
+0,3,male,18.0,20.2125,3,teen,6.74
+0,3,male,28.0,7.25,1,young adult,7.25
+1,2,female,28.0,26.0,2,young adult,13.0
+1,2,female,19.0,26.0,1,young adult,26.0
+0,3,male,28.0,7.75,1,young adult,7.75
+1,3,male,32.0,8.05,1,young adult,8.05
+1,1,male,28.0,26.55,1,young adult,26.55
+1,3,female,28.0,16.1,2,young adult,8.05
+1,2,female,42.0,26.0,2,adult,13.0
+0,3,male,17.0,7.125,1,teen,7.12
+0,1,male,50.0,55.9,2,adult,27.95
+1,1,female,14.0,120.0,4,teen,30.0
+0,3,female,21.0,34.375,5,young adult,6.88
+1,2,female,24.0,18.75,6,young adult,3.12
+0,1,male,64.0,263.0,6,senior,43.83
+0,2,male,31.0,10.5,1,young adult,10.5
+1,2,female,45.0,26.25,3,adult,8.75
+0,3,male,20.0,9.5,1,young adult,9.5
+0,3,male,25.0,7.775,2,young adult,3.89
+1,2,female,28.0,13.0,1,young adult,13.0
+1,3,male,28.0,8.1125,1,young adult,8.11
+1,1,male,4.0,81.8583,3,child,27.29
+1,2,female,13.0,19.5,2,teen,9.75
+1,1,male,34.0,26.55,1,young adult,26.55
+1,3,female,5.0,19.2583,4,child,4.81
+1,1,male,52.0,30.5,1,adult,30.5
+0,2,male,36.0,27.75,4,adult,6.94
+0,3,male,28.0,19.9667,2,young adult,9.98
+0,1,male,30.0,27.75,1,young adult,27.75
+1,1,male,49.0,89.1042,2,adult,44.55
+0,3,male,28.0,8.05,1,young adult,8.05
+1,3,male,29.0,7.8958,1,young adult,7.9
+0,1,male,65.0,26.55,1,senior,26.55
+1,1,female,28.0,51.8625,2,young adult,25.93
+1,2,female,50.0,10.5,1,adult,10.5
+0,3,male,28.0,7.75,1,young adult,7.75
+1,1,male,48.0,26.55,1,adult,26.55
+0,3,male,34.0,8.05,1,young adult,8.05
+0,1,male,47.0,38.5,1,adult,38.5
+0,2,male,48.0,13.0,1,adult,13.0
+0,3,male,28.0,8.05,1,young adult,8.05
+0,3,male,38.0,7.05,1,adult,7.05
+0,2,male,28.0,0.0,1,young adult,0.0
+0,1,male,56.0,26.55,1,senior,26.55
+0,3,male,28.0,7.725,1,young adult,7.72
+1,3,female,0.75,19.2583,4,child,4.81
+0,3,male,28.0,7.25,1,young adult,7.25
+0,3,male,38.0,8.6625,1,adult,8.66
+1,2,female,33.0,27.75,4,young adult,6.94
+1,2,female,23.0,13.7917,1,young adult,13.79
+0,3,female,22.0,9.8375,1,young adult,9.84
+0,1,male,28.0,52.0,1,young adult,52.0
+0,2,male,34.0,21.0,2,young adult,10.5
+0,3,male,29.0,7.0458,2,young adult,3.52
+0,3,male,22.0,7.5208,1,young adult,7.52
+1,3,female,2.0,12.2875,2,child,6.14
+0,3,male,9.0,46.9,8,child,5.86
+0,2,male,28.0,0.0,1,young adult,0.0
+0,3,male,50.0,8.05,1,adult,8.05
+1,3,female,63.0,9.5875,1,senior,9.59
+1,1,male,25.0,91.0792,2,young adult,45.54
+0,3,female,28.0,25.4667,5,young adult,5.09
+1,1,female,35.0,90.0,2,young adult,45.0
+0,1,male,58.0,29.7,1,senior,29.7
+0,3,male,30.0,8.05,1,young adult,8.05
+1,3,male,9.0,15.9,3,child,5.3
+0,3,male,28.0,19.9667,2,young adult,9.98
+0,3,male,21.0,7.25,1,young adult,7.25
+0,1,male,55.0,30.5,1,adult,30.5
+0,1,male,71.0,49.5042,1,senior,49.5
+0,3,male,21.0,8.05,1,young adult,8.05
+0,3,male,28.0,14.4583,1,young adult,14.46
+1,1,female,54.0,78.2667,2,adult,39.13
+0,3,male,28.0,15.1,1,young adult,15.1
+0,1,female,25.0,151.55,4,young adult,37.89
+0,3,male,24.0,7.7958,1,young adult,7.8
+0,3,male,17.0,8.6625,1,teen,8.66
+0,3,female,21.0,7.75,1,young adult,7.75
+0,3,female,28.0,7.6292,1,young adult,7.63
+0,3,female,37.0,9.5875,1,adult,9.59
+1,1,female,16.0,86.5,1,teen,86.5
+0,1,male,18.0,108.9,2,teen,54.45
+1,2,female,33.0,26.0,3,young adult,8.67
+1,1,male,28.0,26.55,1,young adult,26.55
+0,3,male,28.0,22.525,1,young adult,22.52
+1,3,male,26.0,56.4958,1,young adult,56.5
+1,3,male,29.0,7.75,1,young adult,7.75
+0,3,male,28.0,8.05,1,young adult,8.05
+1,1,male,36.0,26.2875,1,adult,26.29
+1,1,female,54.0,59.4,2,adult,29.7
+0,3,male,24.0,7.4958,1,young adult,7.5
+0,1,male,47.0,34.0208,1,adult,34.02
+1,2,female,34.0,10.5,1,young adult,10.5
+0,3,male,28.0,24.15,1,young adult,24.15
+1,2,female,36.0,26.0,2,adult,13.0
+0,3,male,32.0,7.8958,1,young adult,7.9
+1,1,female,30.0,93.5,1,young adult,93.5
+0,3,male,22.0,7.8958,1,young adult,7.9
+0,3,male,28.0,7.225,1,young adult,7.22
+1,1,female,44.0,57.9792,2,adult,28.99
+0,3,male,28.0,7.2292,1,young adult,7.23
+0,3,male,40.5,7.75,1,adult,7.75
+1,2,female,50.0,10.5,1,adult,10.5
+0,1,male,28.0,221.7792,1,young adult,221.78
+0,3,male,39.0,7.925,1,adult,7.93
+0,2,male,23.0,11.5,4,young adult,2.88
+1,2,female,2.0,26.0,3,child,8.67
+0,3,male,28.0,7.2292,1,young adult,7.23
+0,3,male,17.0,7.2292,3,teen,2.41
+1,3,female,28.0,22.3583,3,young adult,7.45
+0,3,female,30.0,8.6625,1,young adult,8.66
+1,2,female,7.0,26.25,3,child,8.75
+0,1,male,45.0,26.55,1,adult,26.55
+1,1,female,30.0,106.425,1,young adult,106.43
+0,3,male,28.0,14.5,1,young adult,14.5
+1,1,female,22.0,49.5,3,young adult,16.5
+1,1,female,36.0,71.0,3,adult,23.67
+0,3,female,9.0,31.275,7,child,4.47
+0,3,female,11.0,31.275,7,child,4.47
+1,2,male,32.0,26.0,2,young adult,13.0
+0,1,male,50.0,106.425,2,adult,53.21
+0,1,male,64.0,26.0,1,senior,26.0
+1,2,female,19.0,26.0,2,young adult,13.0
+1,2,male,28.0,13.8625,1,young adult,13.86
+0,3,male,33.0,20.525,3,young adult,6.84
+1,2,male,8.0,36.75,3,child,12.25
+1,1,male,17.0,110.8833,3,teen,36.96
+0,2,male,27.0,26.0,1,young adult,26.0
+0,3,male,28.0,7.8292,1,young adult,7.83
+1,3,male,22.0,7.225,1,young adult,7.22
+1,3,female,22.0,7.775,1,young adult,7.78
+0,1,male,62.0,26.55,1,senior,26.55
+1,1,female,48.0,39.6,2,adult,19.8
+0,1,male,28.0,227.525,1,young adult,227.52
+1,1,female,39.0,79.65,3,adult,26.55
+1,3,female,36.0,17.4,2,adult,8.7
+0,3,male,28.0,7.75,1,young adult,7.75
+0,3,male,40.0,7.8958,1,adult,7.9
+0,2,male,28.0,13.5,1,young adult,13.5
+0,3,male,28.0,8.05,1,young adult,8.05
+0,3,female,28.0,8.05,1,young adult,8.05
+0,3,male,24.0,24.15,3,young adult,8.05
+0,3,male,19.0,7.8958,1,young adult,7.9
+0,3,female,29.0,21.075,5,young adult,4.22
+0,3,male,28.0,7.2292,1,young adult,7.23
+1,3,male,32.0,7.8542,1,young adult,7.85
+1,2,male,62.0,10.5,1,senior,10.5
+1,1,female,53.0,51.4792,3,adult,17.16
+1,1,male,36.0,26.3875,1,adult,26.39
+1,3,female,28.0,7.75,1,young adult,7.75
+0,3,male,16.0,8.05,1,teen,8.05
+0,3,male,19.0,14.5,1,young adult,14.5
+1,2,female,34.0,13.0,1,young adult,13.0
+1,1,female,39.0,55.9,2,adult,27.95
+0,3,female,28.0,14.4583,2,young adult,7.23
+1,3,male,32.0,7.925,1,young adult,7.93
+1,2,female,25.0,30.0,3,young adult,10.0
+1,1,female,39.0,110.8833,3,adult,36.96
+0,2,male,54.0,26.0,1,adult,26.0
+0,1,male,36.0,40.125,1,adult,40.12
+0,3,male,28.0,8.7125,1,young adult,8.71
+1,1,female,18.0,79.65,3,teen,26.55
+0,2,male,47.0,15.0,1,adult,15.0
+1,1,male,60.0,79.2,3,senior,26.4
+0,3,male,22.0,8.05,1,young adult,8.05
+0,3,male,28.0,8.05,1,young adult,8.05
+0,3,male,35.0,7.125,1,young adult,7.12
+1,1,female,52.0,78.2667,2,adult,39.13
+0,3,male,47.0,7.25,1,adult,7.25
+0,3,female,28.0,7.75,3,young adult,2.58
+0,2,male,37.0,26.0,2,adult,13.0
+0,3,male,36.0,24.15,3,adult,8.05
+1,2,female,28.0,33.0,1,young adult,33.0
+0,3,male,49.0,0.0,1,adult,0.0
+0,3,male,28.0,7.225,1,young adult,7.22
+1,1,male,49.0,56.9292,2,adult,28.46
+1,2,female,24.0,27.0,4,young adult,6.75
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,1,male,28.0,42.4,1,young adult,42.4
+0,3,male,44.0,8.05,1,adult,8.05
+1,1,male,35.0,26.55,1,young adult,26.55
+0,3,male,36.0,15.55,2,adult,7.78
+0,3,male,30.0,7.8958,1,young adult,7.9
+1,1,male,27.0,30.5,1,young adult,30.5
+1,2,female,22.0,41.5792,4,young adult,10.39
+1,1,female,40.0,153.4625,1,adult,153.46
+0,3,female,39.0,31.275,7,adult,4.47
+0,3,male,28.0,7.05,1,young adult,7.05
+1,3,female,28.0,15.5,2,young adult,7.75
+0,3,male,28.0,7.75,1,young adult,7.75
+0,3,male,35.0,8.05,1,young adult,8.05
+1,2,female,24.0,65.0,4,young adult,16.25
+0,3,male,34.0,14.4,3,young adult,4.8
+0,3,female,26.0,16.1,2,young adult,8.05
+1,2,female,4.0,39.0,4,child,9.75
+0,2,male,26.0,10.5,1,young adult,10.5
+0,3,male,27.0,14.4542,2,young adult,7.23
+1,1,male,42.0,52.5542,2,adult,26.28
+1,3,male,20.0,15.7417,3,young adult,5.25
+0,3,male,21.0,7.8542,1,young adult,7.85
+0,3,male,21.0,16.1,1,young adult,16.1
+0,1,male,61.0,32.3208,1,senior,32.32
+0,2,male,57.0,12.35,1,senior,12.35
+1,1,female,21.0,77.9583,1,young adult,77.96
+0,3,male,26.0,7.8958,1,young adult,7.9
+0,3,male,28.0,7.7333,1,young adult,7.73
+1,1,male,80.0,30.0,1,senior,30.0
+0,3,male,51.0,7.0542,1,adult,7.05
+1,1,male,32.0,30.5,1,young adult,30.5
+0,1,male,28.0,0.0,1,young adult,0.0
+0,3,female,9.0,27.9,6,child,4.65
+1,2,female,28.0,13.0,1,young adult,13.0
+0,3,male,32.0,7.925,1,young adult,7.93
+0,2,male,31.0,26.25,3,young adult,8.75
+0,3,female,41.0,39.6875,6,adult,6.61
+0,3,male,28.0,16.1,2,young adult,8.05
+0,3,male,20.0,7.8542,1,young adult,7.85
+1,1,female,24.0,69.3,1,young adult,69.3
+0,3,female,2.0,27.9,6,child,4.65
+1,3,male,28.0,56.4958,1,young adult,56.5
+1,3,female,0.75,19.2583,4,child,4.81
+1,1,male,48.0,76.7292,2,adult,38.36
+0,3,male,19.0,7.8958,1,young adult,7.9
+1,1,male,56.0,35.5,1,senior,35.5
+0,3,male,28.0,7.55,1,young adult,7.55
+1,3,female,23.0,7.55,1,young adult,7.55
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,2,female,18.0,23.0,2,teen,11.5
+0,3,male,21.0,8.4333,1,young adult,8.43
+1,3,female,28.0,7.8292,1,young adult,7.83
+0,3,female,18.0,6.75,1,teen,6.75
+0,2,male,24.0,73.5,3,young adult,24.5
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,3,female,32.0,15.5,3,young adult,5.17
+0,2,male,23.0,13.0,1,young adult,13.0
+0,1,male,58.0,113.275,3,senior,37.76
+1,1,male,50.0,133.65,3,adult,44.55
+0,3,male,40.0,7.225,1,adult,7.22
+0,1,male,47.0,25.5875,1,adult,25.59
+0,3,male,36.0,7.4958,1,adult,7.5
+1,3,male,20.0,7.925,2,young adult,3.96
+0,2,male,32.0,73.5,3,young adult,24.5
+0,2,male,25.0,13.0,1,young adult,13.0
+0,3,male,28.0,7.775,1,young adult,7.78
+0,3,male,43.0,8.05,1,adult,8.05
+1,1,female,28.0,52.0,2,young adult,26.0
+1,2,female,40.0,39.0,3,adult,13.0
+0,1,male,31.0,52.0,2,young adult,26.0
+0,2,male,70.0,10.5,1,senior,10.5
+1,2,male,31.0,13.0,1,young adult,13.0
+0,2,male,28.0,0.0,1,young adult,0.0
+0,3,male,18.0,7.775,1,teen,7.78
+0,3,male,24.5,8.05,1,young adult,8.05
+1,3,female,18.0,9.8417,1,teen,9.84
+0,3,female,43.0,46.9,8,adult,5.86
+1,1,male,36.0,512.3292,2,adult,256.16
+0,3,female,28.0,8.1375,1,young adult,8.14
+1,1,male,27.0,76.7292,1,young adult,76.73
+0,3,male,20.0,9.225,1,young adult,9.23
+0,3,male,14.0,46.9,8,teen,5.86
+0,2,male,60.0,39.0,3,senior,13.0
+0,2,male,25.0,41.5792,4,young adult,10.39
+0,3,male,14.0,39.6875,6,teen,6.61
+0,3,male,19.0,10.1708,1,young adult,10.17
+0,3,male,18.0,7.7958,1,teen,7.8
+1,1,female,15.0,211.3375,2,teen,105.67
+1,1,male,31.0,57.0,2,young adult,28.5
+1,3,female,4.0,13.4167,2,child,6.71
+1,3,male,28.0,56.4958,1,young adult,56.5
+0,3,male,25.0,7.225,1,young adult,7.22
+0,1,male,60.0,26.55,1,senior,26.55
+0,2,male,52.0,13.5,1,adult,13.5
+0,3,male,44.0,8.05,1,adult,8.05
+1,3,female,28.0,7.7333,1,young adult,7.73
+0,1,male,49.0,110.8833,3,adult,36.96
+0,3,male,42.0,7.65,1,adult,7.65
+1,1,female,18.0,227.525,2,teen,113.76
+1,1,male,35.0,26.2875,1,young adult,26.29
+0,3,female,18.0,14.4542,2,teen,7.23
+0,3,male,25.0,7.7417,1,young adult,7.74
+0,3,male,26.0,7.8542,2,young adult,3.93
+0,2,male,39.0,26.0,1,adult,26.0
+1,2,female,45.0,13.5,1,adult,13.5
+1,1,male,42.0,26.2875,1,adult,26.29
+1,1,female,22.0,151.55,1,young adult,151.55
+1,3,male,28.0,15.2458,3,young adult,5.08
+1,1,female,24.0,49.5042,1,young adult,49.5
+0,1,male,28.0,26.55,1,young adult,26.55
+1,1,male,48.0,52.0,2,adult,26.0
+0,3,male,29.0,9.4833,1,young adult,9.48
+0,2,male,52.0,13.0,1,adult,13.0
+0,3,male,19.0,7.65,1,young adult,7.65
+1,1,female,38.0,227.525,1,adult,227.52
+1,2,female,27.0,10.5,1,young adult,10.5
+0,3,male,28.0,15.5,1,young adult,15.5
+0,3,male,33.0,7.775,1,young adult,7.78
+1,2,female,6.0,33.0,2,child,16.5
+0,3,male,17.0,7.0542,2,teen,3.53
+0,2,male,34.0,13.0,1,young adult,13.0
+0,2,male,50.0,13.0,1,adult,13.0
+1,1,male,27.0,53.1,2,young adult,26.55
+0,3,male,20.0,8.6625,1,young adult,8.66
+1,2,female,30.0,21.0,4,young adult,5.25
+1,3,female,28.0,7.7375,1,young adult,7.74
+0,2,male,25.0,26.0,2,young adult,13.0
+0,3,female,25.0,7.925,2,young adult,3.96
+1,1,female,29.0,211.3375,1,young adult,211.34
+0,3,male,11.0,18.7875,1,child,18.79
+0,2,male,28.0,0.0,1,young adult,0.0
+0,2,male,23.0,13.0,1,young adult,13.0
+0,2,male,23.0,13.0,1,young adult,13.0
+0,3,male,28.5,16.1,1,young adult,16.1
+0,3,female,48.0,34.375,5,adult,6.88
+1,1,male,35.0,512.3292,1,young adult,512.33
+0,3,male,28.0,7.8958,1,young adult,7.9
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,1,male,28.0,30.0,1,young adult,30.0
+0,1,male,36.0,78.85,2,adult,39.42
+1,1,female,21.0,262.375,5,young adult,52.48
+0,3,male,24.0,16.1,2,young adult,8.05
+1,3,male,31.0,7.925,1,young adult,7.93
+0,1,male,70.0,71.0,3,senior,23.67
+0,3,male,16.0,20.25,3,teen,6.75
+1,2,female,30.0,13.0,1,young adult,13.0
+0,1,male,19.0,53.1,2,young adult,26.55
+0,3,male,31.0,7.75,1,young adult,7.75
+1,2,female,4.0,23.0,3,child,7.67
+1,3,male,6.0,12.475,2,child,6.24
+0,3,male,33.0,9.5,1,young adult,9.5
+0,3,male,23.0,7.8958,1,young adult,7.9
+1,2,female,48.0,65.0,4,adult,16.25
+1,2,male,0.67,14.5,3,child,4.83
+0,3,male,28.0,7.7958,1,young adult,7.8
+0,2,male,18.0,11.5,1,teen,11.5
+0,3,male,34.0,8.05,1,young adult,8.05
+1,1,female,33.0,86.5,1,young adult,86.5
+0,3,male,28.0,14.5,1,young adult,14.5
+0,3,male,41.0,7.125,1,adult,7.12
+1,3,male,20.0,7.2292,1,young adult,7.23
+1,1,female,36.0,120.0,4,adult,30.0
+0,3,male,16.0,7.775,1,teen,7.78
+1,1,female,51.0,77.9583,2,adult,38.98
+0,1,male,28.0,39.6,1,young adult,39.6
+0,3,female,30.5,7.75,1,young adult,7.75
+0,3,male,28.0,24.15,2,young adult,12.07
+0,3,male,32.0,8.3625,1,young adult,8.36
+0,3,male,24.0,9.5,1,young adult,9.5
+0,3,male,48.0,7.8542,1,adult,7.85
+0,2,female,57.0,10.5,1,senior,10.5
+0,3,male,28.0,7.225,1,young adult,7.22
+1,2,female,54.0,23.0,5,adult,4.6
+0,3,male,18.0,7.75,1,teen,7.75
+0,3,male,28.0,7.75,1,young adult,7.75
+1,3,female,5.0,12.475,1,child,12.48
+0,3,male,28.0,7.7375,1,young adult,7.74
+1,1,female,43.0,211.3375,2,adult,105.67
+1,3,female,13.0,7.2292,1,teen,7.23
+1,1,female,17.0,57.0,2,teen,28.5
+0,1,male,29.0,30.0,1,young adult,30.0
+0,3,male,28.0,23.45,4,young adult,5.86
+0,3,male,25.0,7.05,1,young adult,7.05
+0,3,male,25.0,7.25,1,young adult,7.25
+1,3,female,18.0,7.4958,1,teen,7.5
+0,3,male,8.0,29.125,6,child,4.85
+1,3,male,1.0,20.575,4,child,5.14
+0,1,male,46.0,79.2,1,adult,79.2
+0,3,male,28.0,7.75,1,young adult,7.75
+0,2,male,16.0,26.0,1,teen,26.0
+0,3,female,28.0,69.55,11,young adult,6.32
+0,1,male,28.0,30.6958,1,young adult,30.7
+0,3,male,25.0,7.8958,1,young adult,7.9
+0,2,male,39.0,13.0,1,adult,13.0
+1,1,female,49.0,25.9292,1,adult,25.93
+1,3,female,31.0,8.6833,1,young adult,8.68
+0,3,male,30.0,7.2292,1,young adult,7.23
+0,3,female,30.0,24.15,3,young adult,8.05
+0,2,male,34.0,13.0,1,young adult,13.0
+1,2,female,31.0,26.25,3,young adult,8.75
+1,1,male,11.0,120.0,4,child,30.0
+1,3,male,0.42,8.5167,2,child,4.26
+1,3,male,27.0,6.975,1,young adult,6.97
+0,3,male,31.0,7.775,1,young adult,7.78
+0,1,male,39.0,0.0,1,adult,0.0
+0,3,female,18.0,7.775,1,teen,7.78
+0,2,male,39.0,13.0,1,adult,13.0
+1,1,female,33.0,53.1,2,young adult,26.55
+0,3,male,26.0,7.8875,1,young adult,7.89
+0,3,male,39.0,24.15,1,adult,24.15
+0,2,male,35.0,10.5,1,young adult,10.5
+0,3,female,6.0,31.275,7,child,4.47
+0,3,male,30.5,8.05,1,young adult,8.05
+0,1,male,28.0,0.0,1,young adult,0.0
+0,3,female,23.0,7.925,1,young adult,7.93
+0,2,male,31.0,37.0042,3,young adult,12.33
+0,3,male,43.0,6.45,1,adult,6.45
+0,3,male,10.0,27.9,6,child,4.65
+1,1,female,52.0,93.5,3,adult,31.17
+1,3,male,27.0,8.6625,1,young adult,8.66
+0,1,male,38.0,0.0,1,adult,0.0
+1,3,female,27.0,12.475,2,young adult,6.24
+0,3,male,2.0,39.6875,6,child,6.61
+0,3,male,28.0,6.95,1,young adult,6.95
+0,3,male,28.0,56.4958,1,young adult,56.5
+1,2,male,1.0,37.0042,3,child,12.33
+1,3,male,28.0,7.75,1,young adult,7.75
+1,1,female,62.0,80.0,1,senior,80.0
+1,3,female,15.0,14.4542,2,teen,7.23
+1,2,male,0.83,18.75,3,child,6.25
+0,3,male,28.0,7.2292,1,young adult,7.23
+0,3,male,23.0,7.8542,1,young adult,7.85
+0,3,male,18.0,8.3,1,teen,8.3
+1,1,female,39.0,83.1583,3,adult,27.72
+0,3,male,21.0,8.6625,1,young adult,8.66
+0,3,male,28.0,8.05,1,young adult,8.05
+1,3,male,32.0,56.4958,1,young adult,56.5
+1,1,male,28.0,29.7,1,young adult,29.7
+0,3,male,20.0,7.925,1,young adult,7.93
+0,2,male,16.0,10.5,1,teen,10.5
+1,1,female,30.0,31.0,1,young adult,31.0
+0,3,male,34.5,6.4375,1,young adult,6.44
+0,3,male,17.0,8.6625,1,teen,8.66
+0,3,male,42.0,7.55,1,adult,7.55
+0,3,male,28.0,69.55,11,young adult,6.32
+0,3,male,35.0,7.8958,1,young adult,7.9
+0,2,male,28.0,33.0,2,young adult,16.5
+1,1,female,28.0,89.1042,2,young adult,44.55
+0,3,male,4.0,31.275,7,child,4.47
+0,3,male,74.0,7.775,1,senior,7.78
+0,3,female,9.0,15.2458,3,child,5.08
+1,1,female,16.0,39.4,2,teen,19.7
+0,2,female,44.0,26.0,2,adult,13.0
+1,3,female,18.0,9.35,2,teen,4.68
+1,1,female,45.0,164.8667,3,adult,54.96
+1,1,male,51.0,26.55,1,adult,26.55
+1,3,female,24.0,19.2583,4,young adult,4.81
+0,3,male,28.0,7.2292,1,young adult,7.23
+0,3,male,41.0,14.1083,3,adult,4.7
+0,2,male,21.0,11.5,2,young adult,5.75
+1,1,female,48.0,25.9292,1,adult,25.93
+0,3,female,28.0,69.55,11,young adult,6.32
+0,2,male,24.0,13.0,1,young adult,13.0
+1,2,female,42.0,13.0,1,adult,13.0
+1,2,female,27.0,13.8583,2,young adult,6.93
+0,1,male,31.0,50.4958,1,young adult,50.5
+0,3,male,28.0,9.5,1,young adult,9.5
+1,3,male,4.0,11.1333,3,child,3.71
+0,3,male,26.0,7.8958,1,young adult,7.9
+1,1,female,47.0,52.5542,3,adult,17.52
+0,1,male,33.0,5.0,1,young adult,5.0
+0,3,male,47.0,9.0,1,adult,9.0
+1,2,female,28.0,24.0,2,young adult,12.0
+1,3,female,15.0,7.225,1,teen,7.22
+0,3,male,20.0,9.8458,1,young adult,9.85
+0,3,male,19.0,7.8958,1,young adult,7.9
+0,3,male,28.0,7.8958,1,young adult,7.9
+1,1,female,56.0,83.1583,2,senior,41.58
+1,2,female,25.0,26.0,2,young adult,13.0
+0,3,male,33.0,7.8958,1,young adult,7.9
+0,3,female,22.0,10.5167,1,young adult,10.52
+0,2,male,28.0,10.5,1,young adult,10.5
+0,3,male,25.0,7.05,1,young adult,7.05
+0,3,female,39.0,29.125,6,adult,4.85
+0,2,male,27.0,13.0,1,young adult,13.0
+1,1,female,19.0,30.0,1,young adult,30.0
+0,3,female,28.0,23.45,4,young adult,5.86
+1,1,male,26.0,30.0,1,young adult,30.0
+0,3,male,32.0,7.75,1,young adult,7.75
