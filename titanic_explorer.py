@@ -49,10 +49,12 @@ def load_titanic() -> pd.DataFrame: #this arrow then says that the return type w
 
 @st.cache_data(show_spinner=False)
 def describe_missing(df: pd.DataFrame) -> pd.DataFrame: #why is thre a colon in the parameters what does this mean
-    miss = df.isna().mean().mul(100).round(2).rename('missing_%')  #what does mul do??
+    miss = df.isna().mean().mul(100).round(2).rename('missing_%')  
+    #df.isna() returns a boolean dataframe with true for missing values, and false otherwise
+    #mean converts True to 1 and false to 0 and gets then what proportion between 0 and 1 are true, mul(100) multiplies it by 100 making it %
     miss = miss.reset_index()
-    miss.columns = ['column', 'missing_%'] #what does this do?
-    return miss.sort_values('missing_%', ascending= False) #what does this do?
+    miss.columns = ['column', 'missing_%'] #what does this do? re-names the index and the missing_% column
+    return miss.sort_values('missing_%', ascending= False) #what does this do? sorts the values from the biggest missing % to the smallest
 
 df = load_titanic()  #why this line at the end
 
