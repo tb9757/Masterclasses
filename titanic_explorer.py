@@ -101,7 +101,7 @@ if not include_missing_deck and "deck" in fdf.columns:
 st.sidebar.markdown(f"### {len(fdf)} passengers selected")
 
 # ---------------- Tabs ----------------
-tab_overview, tab_insights, tab_charts = st.tabs(["Overview", "Survival Insights", "Charts"])
+tab_overview, tab_insights, tab_charts, tab_answers = st.tabs(["Overview", "Survival Insights", "Charts", "Answers"])
 
 # ---------------- Overview ----------------
 with tab_overview:
@@ -138,7 +138,7 @@ with tab_overview:
 # ---------------- Survival Insights ----------------
 with tab_insights:
     st.subheader("Group survival rates")
-    left, right = st.columns([2,1])
+    left, right = st.columns([2, 1])
 
     with left:
         # Pick a grouping column
@@ -238,6 +238,12 @@ with tab_charts:
         ax5.set_ylabel(series.capitalize())
         ax5.set_title(f"{series.capitalize()} (sorted {order_by})")
         st.pyplot(fig5, use_container_width=True)
+
+# ---------------- Answers ----------------
+with tab_answers:
+    st.subheader("Answers")
+    answers_df = pd.DataFrame({'Class': ['First', 'Second', 'Third'], 'Survival Rate': ['24.2%', '47.3%', '63.0%']})
+    st.dataframe(answers_df)
 
 # ---------------- Notes ----------------
 st.divider()
